@@ -1,0 +1,92 @@
+[
+	{
+		"title": "The Danish Girl",
+		"year": "2015",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"thumb": "https://m.media-amazon.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"category": "Romance",
+		"sinopse": "A fictitious love story loosely inspired by the lives of Danish artists Lili Elbe and Gerda Wegener. Lili and Gerda's marriage and work evolve as they navigate Lili's groundbreaking journey as a transgender pioneer.",
+		"author": "Tom Hooper",
+		"runtime": "119 min"
+	},
+	{
+		"title": "Bridesmaids",
+		"year": "2011",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"thumb": "https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"category": "Comedy",
+		"sinopse": "Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.",
+		"author": "Paul Feig",
+		"runtime": "125 min"
+	},
+	{
+		"title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+		"year": "2003",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"thumb": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"category": "Action",
+		"sinopse": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+		"author": "Gore Verbinski",
+		"runtime": "143 min"
+	},
+	{
+		"title": "Vacation",
+		"year": "2015",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMTUwNTM0ODMxM15BMl5BanBnXkFtZTgwNjM4Nzk4NTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"thumb": "https://m.media-amazon.com/images/M/MV5BMTUwNTM0ODMxM15BMl5BanBnXkFtZTgwNjM4Nzk4NTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"category": "Comedy",
+		"sinopse": "Rusty Griswold takes his own family on a road trip to \"Walley World\" in order to spice things up with his wife and reconnect with his sons.",
+		"author": "John Francis Daley",
+		"runtime": "99 min"
+	},
+	{
+		"title": "1985",
+		"year": "2018",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNzM2YjQ2M2MtY2EyMy00YmI0LTk2NWQtZTA2ZTA1OGY4ODhjXkEyXkFqcGdeQXVyMjQ3MTMzNDU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"thumb": "https://m.media-amazon.com/images/M/MV5BNzM2YjQ2M2MtY2EyMy00YmI0LTk2NWQtZTA2ZTA1OGY4ODhjXkEyXkFqcGdeQXVyMjQ3MTMzNDU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"category": "Drama",
+		"sinopse": "A closeted young man goes home for the holidays and struggles to reveal his dire circumstances to his conservative family.",
+		"author": "Yen Tan",
+		"runtime": "85 min"
+	},
+	{
+		"title": "The Hunger Games: Mockingjay - Part 2",
+		"year": "2015",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"thumb": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"category": "Action",
+		"sinopse": "Katniss and a team of rebels from District 13 prepare for the final battle that will decide the future of Panem.",
+		"author": "Francis Lawrence",
+		"runtime": "137 min"
+	},
+	{
+		"title": "Apollo 13",
+		"year": "1995",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNjEzYjJmNzgtNDkwNy00MTQ4LTlmMWMtNzA4YjE2NjI0ZDg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"thumb": "https://m.media-amazon.com/images/M/MV5BNjEzYjJmNzgtNDkwNy00MTQ4LTlmMWMtNzA4YjE2NjI0ZDg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"category": "Adventure",
+		"sinopse": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+		"author": "Ron Howard",
+		"runtime": "140 min"
+	},
+	{
+		"title": "Unsane",
+		"year": "2018",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNTYzMDYzMzA1MV5BMl5BanBnXkFtZTgwODUzODg2NDM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"thumb": "https://m.media-amazon.com/images/M/MV5BNTYzMDYzMzA1MV5BMl5BanBnXkFtZTgwODUzODg2NDM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"category": "Horror",
+		"sinopse": "A young woman is involuntarily committed to a mental institution, where she is confronted by her greatest fear--but is it real or a product of her delusion?",
+		"author": "Steven Soderbergh",
+		"runtime": "98 min"
+	},
+	{
+		"title": "Antidote",
+		"year": "2018",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZjEzZDgzM2QtMzk4Ni00YTczLTlhYWUtOWI3M2NkNWM3YzBlXkEyXkFqcGdeQXVyMjM4Mzc3MA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"thumb": "https://m.media-amazon.com/images/M/MV5BZjEzZDgzM2QtMzk4Ni00YTczLTlhYWUtOWI3M2NkNWM3YzBlXkEyXkFqcGdeQXVyMjM4Mzc3MA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+		"category": "Horror",
+		"sinopse": "An altruistic doctor (Natali Yura) and cocky treasure hunters (Randy Couture) and (Chuck Zito) must join forces to uncover the Mayan legend of the White Witch.",
+		"author": "Ken Barbet",
+		"runtime": 120
+	}
+]
